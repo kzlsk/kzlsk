@@ -8,7 +8,7 @@
 <br>
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/lines/kzlsk?pet-id=650320794939029080"
+  src="https://render.gitanimals.org/farms/kzlsk"
   width="1200"
   height="300"
   align="center"
