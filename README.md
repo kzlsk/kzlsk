@@ -43,8 +43,8 @@
 
 | 프로젝트 | 설명 | 기술 |
 |--------|------|------|
-| [**Tablepick**](https://github.com/kzlsk/tablepick) | 개인화 추천 기반 식당 예약 플랫폼 · FE 단독 개발 | React, TypeScript, TanStack Query, Cypress |
-| [**Coufit**](https://github.com/kzlsk/coufit) | 지역화폐 가맹점 추천 지도 플랫폼 · 해커톤 우수상 🏆 | Next.js, TypeScript, Kakao Map API |
+| [**Tablepick**](https://github.com/orgs/4und-Cloud/repositories) | 개인화 추천 기반 식당 예약 플랫폼 · FE 단독 개발 | React, TypeScript, TanStack Query, Cypress |
+| [**Coufit**](https://github.com/orgs/coufit/repositories) | 지역화폐 가맹점 추천 지도 플랫폼 · 해커톤 우수상 🏆 | Next.js, TypeScript, Kakao Map API |
 
 ---
 
