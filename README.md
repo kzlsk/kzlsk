@@ -1,68 +1,57 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=4682B4&fontColor=424242&height=150&section=header&text=kzlsk%20Github👋&fontSize=70&animation=fadeIn&fontAlignY=50"/>
-</div>
+## 🙋‍♀️ About Me
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkzlsk%2Fhit-counter&count_bg=%23ADD7FF&title_bg=%23ADD7FF&icon=&icon_color=%23ADD7FF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+> **기능 구현 이후, 사용자 흐름까지 책임지는 FE 개발자 김리나입니다.**
 
-##
-<br>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/kzlsk"
-  width="1200"
-  height="300"
-  align="center"
-/>
-</a>
+- 동작하는 코드에서 끝내지 않고, **실제 환경에서의 성능과 안정성**까지 챙깁니다
+- 문제가 생기면 원인을 끝까지 파고듭니다 — 네트워크 탭부터 인증 플로우까지
+- Cypress / Playwright 기반 **E2E 테스트 자동화** 경험 보유
+
+📫 **rlaflsk4887@gmail.com**
 <br>
 <br>
 
-<br>
+## 🛠️ Tech Stack
 
-<p align='center'>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=kzlsk&theme=default"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzlsk&layout=compact"/>
-</p>
-<br>
+**Frontend**
 
-<h3 align="center">📚 Language 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</div>
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-</div>
-<br>
-<br>
+**State & Data**
 
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
+**Testing**
 
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
+**Tools**
 
-<!--
-**kzlsk/kzlsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+| 프로젝트 | 설명 | 기술 |
+|--------|------|------|
+| [**Tablepick**](https://github.com/kzlsk/tablepick) | 개인화 추천 기반 식당 예약 플랫폼 · FE 단독 개발 | React, TypeScript, TanStack Query, Cypress |
+| [**Coufit**](https://github.com/kzlsk/coufit) | 지역화폐 가맹점 추천 지도 플랫폼 · 해커톤 우수상 🏆 | Next.js, TypeScript, Kakao Map API |
+
+---
+
+## 🏆 Awards & Certifications
+
+- 🥈 **2025 구름 딥다이브 해커톤 우수상** (2025.08)
+- 🏅 대구가톨릭대학교 캡스톤 디자인 EXPO 장려상 (2023.06)
+- 📜 정보처리기사 (2025.09)
+- 📊 TOPCIT 395점 · 수준 2 (2024.10)
+
